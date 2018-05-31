@@ -1,0 +1,401 @@
+CUSTOMER_KEY,NAME,SEX,AGE,STATE,AGE_RANGE
+1,Cleveland Melton,M,27,PA,under 30
+2,Wilmer Mazurek,M,53,WA,50-59
+3,Conrad Mciver,M,47,NM,40-49
+4,Sandy Lawless,M,24,IA,under 30
+5,Tanner Crum,M,38,NY,30-49
+6,Tyron Ahner,M,25,PA,under 30
+7,Malcom Desch,M,41,WV,40-49
+8,Dwight Fripp,M,54,UT,50-59
+9,Alphonse Ruston,M,44,NY,40-49
+10,Rico Brophy,M,34,WA,30-49
+11,Derek Bartram,M,30,IL,30-49
+12,Lyman Youmans,M,36,OR,30-49
+13,Daniel Zastrow,M,13,HI,under 30
+14,Wade Nolte,M,28,MN,under 30
+15,Todd Bigley,M,40,PA,40-49
+16,Truman Fleury,M,43,MA,40-49
+17,Virgil Wand,M,26,WI,under 30
+18,Orville Fite,M,38,WV,30-49
+19,Roland Oneil,M,41,IA,40-49
+20,Brandon Hazen,M,32,NH,30-49
+21,Vincent Port,M,19,AR,under 30
+22,Haywood Sunde,M,17,OR,under 30
+23,Alphonso Rusch,M,53,TX,50-59
+24,Hal Gorden,M,22,MT,under 30
+25,Margarito Vandermeer,M,36,VA,30-49
+26,Keneth Carrillo,M,38,MS,30-49
+27,Mervin Lords,M,27,CA,under 30
+28,Nolan Gasaway,M,49,WI,40-49
+29,Jim Milliman,M,22,NY,under 30
+30,Garfield Durden,M,38,WI,30-49
+31,Anthony Cowen,M,49,MN,40-49
+32,Kelly Steffey,M,22,GA,under 30
+33,Elmer Clogston,M,24,NM,under 30
+34,Floyd Tran,M,54,GA,50-59
+35,Graig Helton,M,22,NJ,under 30
+36,Napoleon Wince,M,21,GA,under 30
+37,Carol Dankert,M,34,SD,30-49
+38,Douglas Simoes,M,17,ME,under 30
+39,Jeffery Whitlow,M,16,MA,under 30
+40,Warren Gayles,M,55,SD,50-59
+41,Sergio Slifer,M,22,DE,under 30
+42,Frank Hruska,M,38,TN,30-49
+43,Dee Reel,M,40,OK,40-49
+44,Boyce Hanzlik,M,29,OR,under 30
+45,Britt Ruano,M,15,VA,under 30
+46,Garland Elling,M,36,NY,30-49
+47,Herbert Wert,M,56,NE,50-59
+48,Jacob Litherland,M,44,SD,40-49
+49,Percy Propp,M,46,MN,40-49
+50,Lester Patridge,M,51,CA,50-59
+51,Dominique Debord,M,54,ID,50-59
+52,Sheldon Matson,M,50,KS,50-59
+53,Julian Nell,M,35,OR,30-49
+54,Ian Lien,M,46,SC,40-49
+55,Reynaldo Hilliard,M,28,NV,under 30
+56,Raymundo Eager,M,21,IA,under 30
+57,Leroy Edling,M,44,IL,40-49
+58,Maurice Sealy,M,34,NV,30-49
+59,Demetrius Doran,M,52,DC,50-59
+60,Jacinto Whicker,M,30,CA,30-49
+61,Grover Wash,M,34,GA,30-49
+62,Mervin Adamski,M,44,AZ,40-49
+63,Rod Winkler,M,21,IL,under 30
+64,Solomon Blaschke,M,22,WV,under 30
+65,Noe Giddings,M,26,MS,under 30
+66,Dale Freeburg,M,16,MA,under 30
+67,Courtney Campisi,M,28,MS,under 30
+68,Irving Strouth,M,30,AZ,30-49
+69,Ethan Walraven,M,33,VT,30-49
+70,Jefferson Petermann,M,36,VT,30-49
+71,Adolfo Gao,M,44,MD,40-49
+72,Lucius Ivie,M,21,AL,under 30
+73,Mary Butterworth,M,34,NE,30-49
+74,Jerome Verhey,M,31,MI,30-49
+75,Ricardo Pacelli,M,52,IA,50-59
+76,Andres Raleigh,M,24,FL,under 30
+77,Wilbur Salzer,M,33,AK,30-49
+78,Devin Rempel,M,43,WA,40-49
+79,Emerson Wiedman,M,13,RI,under 30
+80,Kristofer Viens,M,17,GA,under 30
+81,Josiah Logue,M,31,PA,30-49
+82,Roy Feltman,M,55,WY,50-59
+83,Mitchell Heavner,M,30,UT,30-49
+84,Ahmed Rothwell,M,41,AL,40-49
+85,Rudy Schlatter,M,30,WV,30-49
+86,Valentin Hamm,M,48,KS,40-49
+87,Claud Cornish,M,24,MA,under 30
+88,Renaldo Stults,M,38,WI,30-49
+89,Dwayne Goding,M,26,MT,under 30
+90,Vern Thedford,M,39,ME,30-49
+91,Val Pentz,M,29,NY,under 30
+92,Bobbie Saleh,M,25,SC,under 30
+93,Reinaldo Palombo,M,35,CO,30-49
+94,Armand Craig,M,43,HI,40-49
+95,Wyatt Santacruz,M,34,NJ,30-49
+96,Hershel Geddie,M,26,CA,under 30
+97,Marshall Sisemore,M,38,WY,30-49
+98,Darrin Westervelt,M,30,VT,30-49
+99,Gonzalo Maddock,M,13,WY,under 30
+100,Avery Lebaron,M,41,IL,40-49
+101,Karyl Craney,F,33,SC,30-49
+102,Tomasa Desrosiers,F,40,TX,40-49
+103,Micha Wren,F,30,IN,30-49
+104,Krysten Runkle,F,42,SC,40-49
+105,Shira Branson,F,43,MI,40-49
+106,Hae Stayer,F,31,HI,30-49
+107,Deloise Agrawal,F,29,NY,under 30
+108,Aretha Vert,F,33,MS,30-49
+109,Kendra Pete,F,40,WI,40-49
+110,Margaret Hunsucker,F,34,MS,30-49
+111,Yvone Petrey,F,34,MD,30-49
+112,Claretha Boeke,F,37,VT,30-49
+113,Danuta Litz,F,31,KY,30-49
+114,Sheree Gulyas,F,18,OR,under 30
+115,Chelsey Boomhower,F,43,WI,40-49
+116,Elizebeth Fabiano,F,52,OK,50-59
+117,Marie Pham,F,37,WA,30-49
+118,Yahaira Raymer,F,40,AK,40-49
+119,Elizabet Forte,F,31,LA,30-49
+120,Mazie Speelman,F,35,NE,30-49
+121,Felica Alm,F,51,NH,50-59
+122,Deadra Savedra,F,44,NH,40-49
+123,Treva Herz,F,26,MA,under 30
+124,Iliana Veras,F,43,LA,40-49
+125,Ernestina Lundy,F,39,MS,30-49
+126,Eugenie Donaghy,F,48,CO,40-49
+127,Elisa Isenberg,F,30,NJ,30-49
+128,Shelli Pulice,F,20,ND,under 30
+129,Renay Choiniere,F,45,AR,40-49
+130,Nell Gahan,F,28,ME,under 30
+131,Salena Wathen,F,25,KS,under 30
+132,Peggie Stanislawski,F,22,SC,under 30
+133,Charis Willer,F,29,OK,under 30
+134,Erminia Lonzo,F,32,SC,30-49
+135,Lavinia Brimmer,F,31,AZ,30-49
+136,Lorrie Ulery,F,26,WY,under 30
+137,Randi Kraemer,F,25,NE,under 30
+138,Alyce Culton,F,44,OK,40-49
+139,Tomika Swanger,F,38,AR,30-49
+140,Jeannette Toft,F,22,OH,under 30
+141,Latonia Mitchener,F,36,IN,30-49
+142,Catharine Balcom,F,45,NE,40-49
+143,Richelle Orduna,F,32,RI,30-49
+144,Kina Nida,F,48,WV,40-49
+145,Kimberlie Allensworth,F,44,VA,40-49
+146,Rochel Contos,F,53,NY,50-59
+147,Clarinda Sancho,F,27,AL,under 30
+148,Yaeko Gerhart,F,38,IA,30-49
+149,Marjorie Moloney,F,29,WY,under 30
+150,Pilar Moyer,F,24,DE,under 30
+151,Franchesca Hession,F,42,NJ,40-49
+152,Kathi Placencia,F,30,AK,30-49
+153,Venita Prichett,F,29,PA,under 30
+154,Aura Cartagena,F,43,ME,40-49
+155,Willia Thornell,F,38,KY,30-49
+156,Melia Beatrice,F,29,ID,under 30
+157,Tianna Sackett,F,34,ID,30-49
+158,Ruthie Thiry,F,39,AZ,30-49
+159,Sulema Horiuchi,F,44,VA,40-49
+160,Bari Gearheart,F,36,UT,30-49
+161,Cherry Horne,F,31,AR,30-49
+162,Karoline Huf,F,13,AZ,under 30
+163,Khalilah Elia,F,49,OR,40-49
+164,Dedra Guerra,F,43,DE,40-49
+165,Orpha Grasso,F,33,ND,30-49
+166,Rosalva Crayton,F,33,WI,30-49
+167,Lanell China,F,30,FL,30-49
+168,Gwendolyn Tristan,F,28,RI,under 30
+169,Na Francis,F,39,AK,30-49
+170,Roxy Gilley,F,37,WA,30-49
+171,Breanne Flesher,F,45,DC,40-49
+172,Tandra Friedman,F,16,AL,under 30
+173,Penney Donis,F,43,IA,40-49
+174,Georgine Zook,F,20,IA,under 30
+175,Zelma Packer,F,49,NE,40-49
+176,Dena Belmont,F,24,LA,under 30
+177,Chelsea Seay,F,34,MA,30-49
+178,Lean Danek,F,41,NJ,40-49
+179,Penelope Quail,F,30,VA,30-49
+180,Reynalda Pierpont,F,43,IN,40-49
+181,Darcel Nuckles,F,33,IL,30-49
+182,Tuyet Silcox,F,29,DE,under 30
+183,Cristie Righter,F,33,VA,30-49
+184,Louann Sanabria,F,28,NE,under 30
+185,Honey Kluender,F,52,ID,50-59
+186,Lauralee Rutter,F,37,MA,30-49
+187,Helen Ord,F,30,GA,30-49
+188,Rena Saracino,F,42,UT,40-49
+189,Ozell Tsao,F,38,NJ,30-49
+190,Vicky Seelig,F,32,DE,30-49
+191,Loise Draper,F,56,PA,50-59
+192,Jone Fitting,F,26,KY,under 30
+193,Toi Dresser,F,37,MS,30-49
+194,Macy Koon,F,37,WV,30-49
+195,Tonda Wing,F,22,IA,under 30
+196,Marylou Corner,F,28,PA,under 30
+197,Estelle Groh,F,46,TN,40-49
+198,Zoe Spellman,F,56,MD,50-59
+199,Peggie Finney,F,31,MS,30-49
+200,Martina Brent,F,26,OK,under 30
+201,Ramonita Rentfro,F,30,NV,30-49
+202,Wendie Gulotta,F,33,WI,30-49
+203,Carmela Belanger,F,32,WI,30-49
+204,Donella Edgington,F,46,ID,40-49
+205,Carla Carter,F,33,SD,30-49
+206,Jeannetta Pankratz,F,29,NM,under 30
+207,Dulce Quijas,F,19,MN,under 30
+208,Stepanie Jeremiah,F,14,MO,under 30
+209,Tonisha Weatherholt,F,28,VT,under 30
+210,Lora Ackerson,F,34,CO,30-49
+211,Felicidad Tremper,F,21,UT,under 30
+212,Wonda Blystone,F,25,IA,under 30
+213,Ghislaine Luo,F,32,SD,30-49
+214,Hui Brawley,F,32,OH,30-49
+215,Cammy Como,F,25,WI,under 30
+216,Zonia Henrich,F,38,MS,30-49
+217,Alecia Peart,F,38,NC,30-49
+218,Susy Tavera,F,30,OR,30-49
+219,Jenniffer Peay,F,37,ME,30-49
+220,Paulina Bartow,F,13,UT,under 30
+221,Librada Medlock,F,51,WY,50-59
+222,Larue Villeda,F,29,MA,under 30
+223,Mana Wessels,F,20,MD,under 30
+224,Moriah Issac,F,36,PA,30-49
+225,Muoi Yantis,F,16,VT,under 30
+226,Tambra Lieber,F,39,WV,30-49
+227,Madalyn Tay,F,45,IL,40-49
+228,Hildegard Palmatier,F,38,VT,30-49
+229,Lorean Veselka,F,43,MD,40-49
+230,Sarita Ridout,F,59,MD,50-59
+231,Hortense Paschall,F,40,UT,40-49
+232,Eliza Beirne,F,39,MT,30-49
+233,Lona Hoge,F,33,AL,30-49
+234,Mona Foshee,F,47,WY,40-49
+235,Nilda Eutsey,F,42,NH,40-49
+236,Sherice Gamboa,F,28,NH,under 30
+237,Dorothy Alsup,F,17,NH,under 30
+238,Luella Herrmann,F,20,AR,under 30
+239,Jenna Kugel,F,36,TN,30-49
+240,Felicita Smtih,F,22,WY,under 30
+241,Lashay Gorrell,F,48,RI,40-49
+242,Christena Negron,F,43,NJ,40-49
+243,Tran Rotunno,F,30,NM,30-49
+244,Melony Funk,F,49,MO,40-49
+245,Crista Deluca,F,23,MA,under 30
+246,Marlen Valenta,F,29,DE,under 30
+247,Ignacia Ulery,F,39,WV,30-49
+248,Kathyrn Straw,F,21,NC,under 30
+249,Arianna Dardar,F,33,NC,30-49
+250,Keesha Stokely,F,42,ND,40-49
+251,Kristian Lyvers,F,32,WV,30-49
+252,Dell Quaranta,F,24,NM,under 30
+253,Pa Kwiecien,F,43,NC,40-49
+254,Joannie Cavanagh,F,35,SC,30-49
+255,Lachelle Coupe,F,40,KS,40-49
+256,Aide Noack,F,28,NY,under 30
+257,Kortney Schrack,F,43,WA,40-49
+258,Tina Hunsucker,F,26,NH,under 30
+259,Vanita Yokum,F,38,RI,30-49
+260,Maddie Osterhoudt,F,31,MI,30-49
+261,Arletta Tomita,F,45,AZ,40-49
+262,Leone Burbank,F,32,NC,30-49
+263,Ester Goslin,F,42,WA,40-49
+264,Kizzie Little,F,25,AK,under 30
+265,Annalisa Oubre,F,42,MD,40-49
+266,Marin Walmsley,F,21,KY,under 30
+267,Linette Gourlay,F,35,AK,30-49
+268,Taneka Eggleston,F,30,KS,30-49
+269,Sybil Toal,F,32,FL,30-49
+270,Isidra Jeanlouis,F,41,IA,40-49
+271,Cristie Jonson,F,19,TN,under 30
+272,Annie Byerly,F,27,MS,under 30
+273,Yan Ybarbo,F,41,LA,40-49
+274,Pearlene Millett,F,42,MO,40-49
+275,Carleen Spicher,F,31,OK,30-49
+276,Lanora Rigby,F,23,NH,under 30
+277,Maybelle Pettey,F,30,ID,30-49
+278,Agnus Novack,F,46,NE,40-49
+279,Lucretia Pedone,F,26,MA,under 30
+280,Danette Savell,F,25,NJ,under 30
+281,Francesca Selvy,F,27,DE,under 30
+282,Leontine Wulff,F,27,NM,under 30
+283,Adele Mechem,F,42,DC,40-49
+284,Alvera Avis,F,22,WI,under 30
+285,Shanda Lamonica,F,20,UT,under 30
+286,Alicia Feagins,F,33,MI,30-49
+287,Shaunta Devinney,F,35,CA,30-49
+288,Vernell Winbush,F,40,OR,40-49
+289,Angelina Sliva,F,13,OH,under 30
+290,Britni Poore,F,39,NM,30-49
+291,Tresa Benitez,F,32,OK,30-49
+292,Catrice Solum,F,47,NY,40-49
+293,My Bonney,F,48,PA,40-49
+294,Hillary Parsley,F,41,TN,40-49
+295,Lise Avalos,F,29,GA,under 30
+296,Romona Uselton,F,22,IA,under 30
+297,Theresia Clonts,F,41,MN,40-49
+298,Merry Such,F,44,VA,40-49
+299,Kenna Vrieze,F,37,OR,30-49
+300,Jolyn Highsmith,F,33,HI,30-49
+301,Markus Reddick,M,41,IA,40-49
+302,Nolan Weible,M,33,WI,30-49
+303,Judson Massengale,M,30,VT,30-49
+304,Brain Loveall,M,30,LA,30-49
+305,Gayle Numbers,M,38,OK,30-49
+306,Renato Tedrow,M,43,SC,40-49
+307,Desmond Kersey,M,25,KS,under 30
+308,Lyle Bring,M,36,KS,30-49
+309,Benito Needles,M,36,SC,30-49
+310,Lupe Mahoney,M,26,IA,under 30
+311,Denver Ehret,M,44,WY,40-49
+312,Edmundo Larsen,M,38,MN,30-49
+313,Caleb Flink,M,27,WY,under 30
+314,Wesley Hollar,M,26,MT,under 30
+315,Christoper Larimore,M,15,WI,under 30
+316,Rick Waybright,M,32,AZ,30-49
+317,Michel Wold,M,32,OH,30-49
+318,Hosea Hammond,M,34,MO,30-49
+319,Claud Bumgardner,M,20,VT,under 30
+320,Connie Lowrance,M,39,WY,30-49
+321,Quinton Lorch,M,44,LA,40-49
+322,Wm Kleckner,M,34,ME,30-49
+323,Franklin Bloodworth,M,35,TN,30-49
+324,Rod Shawl,M,39,NJ,30-49
+325,Chas Star,M,32,NM,30-49
+326,Pedro Yorke,M,30,HI,30-49
+327,Emmanuel Vanderwal,M,41,DE,40-49
+328,Kraig Graf,M,44,HI,40-49
+329,Rocco Hill,M,44,CO,40-49
+330,Eldon Petersen,M,33,MI,30-49
+331,Parker Natal,M,39,TX,30-49
+332,Francisco Winer,M,32,SD,30-49
+333,Wilfredo Manderscheid,M,24,DC,under 30
+334,Rob Pinkett,M,53,NE,50-59
+335,Hong Seaman,M,43,TX,40-49
+336,Tanner Dezzutti,M,32,NE,30-49
+337,Elvin Rossbach,M,26,NJ,under 30
+338,Wilbert Venable,M,37,SD,30-49
+339,Jessie Tinajero,M,41,AR,40-49
+340,Landon Willingham,M,37,LA,30-49
+341,Mason Mayhue,M,43,IN,40-49
+342,Ahmed Carolina,M,33,MD,30-49
+343,Moises Stiller,M,64,CA,over 60
+344,Dustin Cerrato,M,17,NE,under 30
+345,Spencer Carbaugh,M,31,WY,30-49
+346,Javier Spurlock,M,28,FL,under 30
+347,Jere Crochet,M,38,AZ,30-49
+348,Jarrett Shadrick,M,19,CT,under 30
+349,Ezekiel Baltes,M,28,NY,under 30
+350,Freddie Hain,M,13,MI,under 30
+351,Grady Griffey,M,33,WY,30-49
+352,Tim Baysinger,M,36,VT,30-49
+353,Garret Tow,M,33,WA,30-49
+354,Leandro Talbott,M,23,LA,under 30
+355,Lauren Bourdon,M,40,NH,40-49
+356,Mary Crace,M,34,FL,30-49
+357,Marty Eshelman,M,13,NM,under 30
+358,Humberto Graff,M,30,IA,30-49
+359,Keith Kliebert,M,27,AR,under 30
+360,Jerald Kammer,M,23,CO,under 30
+361,Frankie Kolb,M,16,NV,under 30
+362,Raymon Paradis,M,54,MS,50-59
+363,Rex Perham,M,41,GA,40-49
+364,Luis Lipson,M,27,KS,under 30
+365,Dane Fried,M,44,AZ,40-49
+366,Dwight Rood,M,57,ND,50-59
+367,Jamel Wansley,M,31,TN,30-49
+368,Patrick Covey,M,41,ID,40-49
+369,Winford Schildgen,M,51,AR,50-59
+370,Leopoldo Lemen,M,33,MS,30-49
+371,Louie Wasserman,M,29,MS,under 30
+372,Darrell Mattinson,M,34,DC,30-49
+373,Gustavo Cushenberry,M,32,NY,30-49
+374,Winfred Campas,M,44,ID,40-49
+375,Jon Legere,M,27,UT,under 30
+376,Benny Vanderveer,M,43,DC,40-49
+377,Nathanael Kershaw,M,43,MD,40-49
+378,Javier Crusoe,M,45,MS,40-49
+379,Emory Glines,M,49,PA,40-49
+380,Teodoro Fredrick,M,47,TX,40-49
+381,Lenard Michaud,M,46,RI,40-49
+382,Bart Macauley,M,25,MN,under 30
+383,Corey Trawick,M,49,SC,40-49
+384,Dalton Burnette,M,39,MD,30-49
+385,Kyle Tillotson,M,42,MN,40-49
+386,Reynaldo Lavigne,M,30,TX,30-49
+387,Harley Abbot,M,47,CA,40-49
+388,Orville Petrik,M,46,WY,40-49
+389,Shelton Wasser,M,27,DC,under 30
+390,Brendan Schirmer,M,40,AZ,40-49
+391,Rubin Atterbury,M,24,WA,under 30
+392,Emery Alderman,M,26,SD,under 30
+393,Travis Doetsch,M,23,KS,under 30
+394,Bud Fair,M,54,CA,50-59
+395,Filiberto Duval,M,29,HI,under 30
+396,Herb Mynatt,M,26,IA,under 30
+397,Clifford Sauders,M,39,DE,30-49
+398,Reginald Broeckel,M,17,IL,under 30
+399,Brooks Headrick,M,13,SC,under 30
+400,Malcolm Fite,M,16,NJ,under 30
